@@ -1,0 +1,563 @@
+[2020-12-27 17:35:41,438][    INFO] --- url: /otn/login/loginAysnSuggest
+入参: {'loginUserDTO.user_name': '不需要配置', 'userDTO.password': '不需要配置'}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:35:41,626][    INFO] --- url: /otn/login/loginAysnSuggest 返回参数为空 (logger.py:61)
+[2020-12-27 17:35:42,061][    INFO] --- url: /otn/login/loginAysnSuggest 返回参数为空 (logger.py:61)
+[2020-12-27 17:37:29,066][    INFO] --- url: /otn/uamauthclient
+入参: {'tk': 'yxUCVLTHSRbySQoBu69oNa1k_5tXYaONaiN8mQubl1l0'}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:37:29,300][    INFO] --- 出参：{"result_code":0,"result_message":"验证通过","username":"刘海平","apptk":"yxUCVLTHSRbySQoBu69oNa1k_5tXYaONaiN8mQubl1l0"} (logger.py:61)
+[2020-12-27 17:37:29,316][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs
+入参: {"_json_att": ""}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:37:29,550][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs 返回参数为空 (logger.py:61)
+[2020-12-27 17:37:32,321][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:37:33,452][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:37:36,463][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:37:37,679][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:37:40,695][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:37:41,801][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:37:44,828][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:37:45,968][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:37:48,980][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:37:49,261][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2020-12-25&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 17:37:50,134][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:37:53,147][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:37:54,272][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:37:57,285][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:37:58,503][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:38:01,515][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:38:02,732][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:38:05,541][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2020-12-25&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 17:38:05,760][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:38:06,901][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:38:09,914][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:38:11,021][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:38:14,033][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:38:15,156][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:38:16,670][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2020-12-25&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 17:38:18,168][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:38:19,354][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:38:22,367][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:38:22,398][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2020-12-25&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 17:38:23,490][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:38:26,502][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:38:27,624][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:38:30,636][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:41:04,921][    INFO] --- url: /otn/uamauthclient
+入参: {'tk': 'yxUCVLTHSRbySQoBu69oNa1k_5tXYaONaiN8mQubl1l0'}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:41:05,140][    INFO] --- 出参：{"result_code":0,"result_message":"验证通过","username":"刘海平","apptk":"yxUCVLTHSRbySQoBu69oNa1k_5tXYaONaiN8mQubl1l0"} (logger.py:61)
+[2020-12-27 17:41:05,155][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs
+入参: {"_json_att": ""}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:41:05,374][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs 返回参数为空 (logger.py:61)
+[2020-12-27 17:41:05,686][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs 返回参数为空 (logger.py:61)
+[2020-12-27 17:41:08,152][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:41:09,293][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:41:12,305][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:41:13,427][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:41:16,440][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:41:17,860][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:41:20,875][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:41:22,013][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:41:25,025][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:41:26,166][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:41:29,180][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:41:30,272][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:43:41,715][    INFO] --- url: /otn/uamauthclient
+入参: {'tk': 'yxUCVLTHSRbySQoBu69oNa1k_5tXYaONaiN8mQubl1l0'}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:43:41,949][    INFO] --- 出参：{"result_code":0,"result_message":"验证通过","username":"刘海平","apptk":"yxUCVLTHSRbySQoBu69oNa1k_5tXYaONaiN8mQubl1l0"} (logger.py:61)
+[2020-12-27 17:43:41,965][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs
+入参: {"_json_att": ""}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:43:42,152][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs 返回参数为空 (logger.py:61)
+[2020-12-27 17:43:44,962][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:43:46,086][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:43:49,098][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:43:50,214][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:43:53,234][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:43:54,343][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:43:57,355][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:43:58,459][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:44:01,490][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:44:02,582][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:44:05,610][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:44:06,690][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:44:09,707][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:44:10,791][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:44:13,804][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:44:14,928][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:44:17,939][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:44:19,064][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:44:22,076][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:44:23,200][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:44:26,228][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:44:27,350][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:44:30,361][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:44:31,502][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:44:34,501][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2021-01-20&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 17:44:34,516][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:44:35,605][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:44:38,632][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:44:39,724][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:44:42,735][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:44:43,860][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:44:46,873][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:44:47,981][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:45:44,918][    INFO] --- url: /otn/uamauthclient
+入参: {'tk': 'yxUCVLTHSRbySQoBu69oNa1k_5tXYaONaiN8mQubl1l0'}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:45:45,246][    INFO] --- 出参：{"result_code":0,"result_message":"验证通过","username":"刘海平","apptk":"yxUCVLTHSRbySQoBu69oNa1k_5tXYaONaiN8mQubl1l0"} (logger.py:61)
+[2020-12-27 17:45:45,262][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs
+入参: {"_json_att": ""}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:45:45,575][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs 返回参数为空 (logger.py:61)
+[2020-12-27 17:45:48,259][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:45:49,555][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:45:52,567][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:45:53,817][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:45:56,830][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:45:58,126][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:46:01,139][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:46:02,262][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:46:05,290][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:46:06,445][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:46:09,458][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:46:10,659][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:46:13,674][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:46:14,858][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:46:17,870][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:46:19,134][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:46:22,146][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:46:23,300][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:46:26,313][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:46:27,579][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:46:30,590][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:46:31,776][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:46:34,804][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:46:35,990][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:46:39,002][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:46:40,281][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:46:42,687][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2021-01-20&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 17:46:43,294][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:46:44,591][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:46:47,602][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:46:48,850][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:46:51,856][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:46:53,015][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:46:56,027][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:46:57,258][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:47:00,262][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:47:01,518][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:47:04,520][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:47:05,723][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:47:08,739][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:47:09,897][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2021-01-20&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 17:47:09,897][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:47:12,913][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:47:14,189][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:47:15,778][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2021-01-20&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 17:47:17,203][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:47:18,442][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:47:21,454][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:47:21,595][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2021-01-20&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 17:47:22,683][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:47:23,380][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2021-01-20&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 17:47:24,473][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2021-01-20&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 17:47:25,695][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:47:26,908][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:47:29,918][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:47:31,104][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 17:48:20,925][    INFO] --- url: /otn/login/init 返回参数为空 (logger.py:61)
+[2020-12-27 17:48:54,692][    INFO] --- url: /otn/login/init 返回参数为空 (logger.py:61)
+[2020-12-27 17:54:29,055][    INFO] --- url: /otn/uamauthclient
+入参: {'tk': 'yxUCVLTHSRbySQoBu69oNa1k_5tXYaONaiN8mQubl1l0'}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:54:29,555][    INFO] --- 出参：{"result_code":0,"result_message":"验证通过","username":"刘海平","apptk":"yxUCVLTHSRbySQoBu69oNa1k_5tXYaONaiN8mQubl1l0","newapptk":"IcCor8n0IpyOZu7elALi7FPnFeUsFpkqaVcjqgbcl1l0"} (logger.py:61)
+[2020-12-27 17:54:29,602][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs
+入参: {"_json_att": ""}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:54:29,959][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"notify_for_gat":"","isExist":true,"exMsg":"","two_isOpenClick":["93","95","97","99"],"other_isOpenClick":["91","93","98","99","95","97"],"normal_passengers":[{"passenger_name":"刘海平","sex_code":"M","sex_name":"男","born_date":"1975-08-15 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4329***********715","passenger_type":"1","passenger_flag":"0","passenger_type_name":"成人","mobile_no":"135****4286","phone_no":"","email":"lh***in@126.com","address":"","postalcode":"","first_letter":"","recordCount":"4","total_times":"99","index_id":"0","allEncStr":"6b2d54e965b5e0ec5c645bf988e4a91adf4c80bf649bf68fb3b5ceb1c194ad548af5d519ce89e5cdb1afe25220a6ce4beaf6a0bd9201bb462f1f9075380f28dcb6163a1397191a027788efb5fd80983cfee8eccc86d65d109891860817bd7d17","isAdult":"Y","isYongThan10":"N","isYongThan14":"N","isOldThan60":"N","if_receive":"Y","is_active":"Y","is_buy_ticket":"N","last_time":"20140902","mobile_check_time":"20201124191202","email_active_time":"","last_update_time":"20201124191202","passenger_uuid":"e04994f7bbb254cba2d9435b09b955191796057faa92dcea73d3794a6d6b6dbf","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""},{"passenger_name":"陈干花","sex_code":"F","sex_name":"女","born_date":"1980-08-13 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4329***********12X","passenger_type":"1","passenger_flag":"0","passenger_type_name":"成人","mobile_no":"177****0297","phone_no":"","email":"","address":"","postalcode":"","first_letter":"CGH","recordCount":"4","total_times":"97","index_id":"1","allEncStr":"44949abb4e145d1d427773a2879c6f94a25504220a48f6550e11626a150d9a48c64966a227641efebd6d177ba6f32da2cc8d00d823f8171b68cc8def520d7732d0796f5baba974f5da04069be9bbcc58","isAdult":"Y","isYongThan10":"N","isYongThan14":"N","isOldThan60":"N","if_receive":"Y","is_active":"N","is_buy_ticket":"N","last_time":"20130420","mobile_check_time":"20201007101550","email_active_time":"20200928114728","last_update_time":"20201007101550","passenger_uuid":"7b10ed317ca46a9ebc0dff1baf4e3ab7fe9e5feb699b49eb9d8d24ea273d6054","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""},{"passenger_name":"刘思宇","sex_code":"F","sex_name":"女","born_date":"2009-02-25 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4311***********027","passenger_type":"2","passenger_flag":"0","passenger_type_name":"儿童","mobile_no":"","phone_no":"","email":"","address":"","postalcode":"","first_letter":"LSY","recordCount":"4","total_times":"99","index_id":"2","allEncStr":"5b020e1355e9e80b0460cb061beaf2b98b7c554cc9a2fab7fb7faa514177d83735f1e5dc60d9d4921a8c94be83726c4aab55ac74e6cefe6dcd8b6e442f454c9b","isAdult":"N","isYongThan10":"N","isYongThan14":"Y","isOldThan60":"N","if_receive":"N","is_active":"N","is_buy_ticket":"N","last_time":"20130108","mobile_check_time":"","email_active_time":"","last_update_time":"","passenger_uuid":"de5d4893e8376c23860dd0e3cf66d20d2a30bb6f97e64032ef0c928accc44273","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""},{"passenger_name":"刘文缤","sex_code":"M","sex_name":"男","born_date":"2011-08-29 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4311***********157","passenger_type":"2","passenger_flag":"0","passenger_type_name":"儿童","mobile_no":"","phone_no":"","email":"","address":"","postalcode":"","first_letter":"LW-","recordCount":"4","total_times":"95","index_id":"3","allEncStr":"43778d151e02a803bf6c801cdf97e63f9d25c11c99b9bf46f7dc0a63f144ff2a73defb01c660eae8188a9f5ee25bf611ab55ac74e6cefe6dcd8b6e442f454c9b","isAdult":"N","isYongThan10":"Y","isYongThan14":"Y","isOldThan60":"N","if_receive":"N","is_active":"N","is_buy_ticket":"N","last_time":"20180911","mobile_check_time":"","email_active_time":"","last_update_time":"","passenger_uuid":"5cffc4910181a55c129e56a82c7695cea515050a910f261ea7118dd54204d755","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""}],"dj_passengers":[]},"messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 17:54:32,583][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:54:33,862][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"flag":true},"messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 17:55:10,508][    INFO] --- url: /otn/uamauthclient
+入参: {'tk': 'yxUCVLTHSRbySQoBu69oNa1k_5tXYaONaiN8mQubl1l0'}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:55:10,789][    INFO] --- 出参：{"result_code":2,"result_message":"uamtk票据内容为空"} (logger.py:61)
+[2020-12-27 17:57:21,324][    INFO] --- url: /otn/uamauthclient
+入参: {'tk': 'ZMhCH7q43klY9uAm5eJIxPw3A0nRzysNef70bgozl1l0'}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:57:21,715][    INFO] --- 出参：{"result_code":0,"result_message":"验证通过","username":"刘海平","apptk":"ZMhCH7q43klY9uAm5eJIxPw3A0nRzysNef70bgozl1l0"} (logger.py:61)
+[2020-12-27 17:57:21,731][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs
+入参: {"_json_att": ""}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:57:22,079][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"notify_for_gat":"","isExist":true,"exMsg":"","two_isOpenClick":["93","95","97","99"],"other_isOpenClick":["91","93","98","99","95","97"],"normal_passengers":[{"passenger_name":"刘海平","sex_code":"M","sex_name":"男","born_date":"1975-08-15 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4329***********715","passenger_type":"1","passenger_flag":"0","passenger_type_name":"成人","mobile_no":"135****4286","phone_no":"","email":"lh***in@126.com","address":"","postalcode":"","first_letter":"","recordCount":"4","total_times":"99","index_id":"0","allEncStr":"6b2d54e965b5e0ec5c645bf988e4a91adf4c80bf649bf68fb3b5ceb1c194ad548af5d519ce89e5cdb1afe25220a6ce4beaf6a0bd9201bb462f1f9075380f28dcb6163a1397191a027788efb5fd80983cfee8eccc86d65d109891860817bd7d17","isAdult":"Y","isYongThan10":"N","isYongThan14":"N","isOldThan60":"N","if_receive":"Y","is_active":"Y","is_buy_ticket":"N","last_time":"20140902","mobile_check_time":"20201124191202","email_active_time":"","last_update_time":"20201124191202","passenger_uuid":"e04994f7bbb254cba2d9435b09b955191796057faa92dcea73d3794a6d6b6dbf","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""},{"passenger_name":"陈干花","sex_code":"F","sex_name":"女","born_date":"1980-08-13 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4329***********12X","passenger_type":"1","passenger_flag":"0","passenger_type_name":"成人","mobile_no":"177****0297","phone_no":"","email":"","address":"","postalcode":"","first_letter":"CGH","recordCount":"4","total_times":"97","index_id":"1","allEncStr":"44949abb4e145d1d427773a2879c6f94a25504220a48f6550e11626a150d9a48c64966a227641efebd6d177ba6f32da2cc8d00d823f8171b68cc8def520d7732d0796f5baba974f5da04069be9bbcc58","isAdult":"Y","isYongThan10":"N","isYongThan14":"N","isOldThan60":"N","if_receive":"Y","is_active":"N","is_buy_ticket":"N","last_time":"20130420","mobile_check_time":"20201007101550","email_active_time":"20200928114728","last_update_time":"20201007101550","passenger_uuid":"7b10ed317ca46a9ebc0dff1baf4e3ab7fe9e5feb699b49eb9d8d24ea273d6054","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""},{"passenger_name":"刘思宇","sex_code":"F","sex_name":"女","born_date":"2009-02-25 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4311***********027","passenger_type":"2","passenger_flag":"0","passenger_type_name":"儿童","mobile_no":"","phone_no":"","email":"","address":"","postalcode":"","first_letter":"LSY","recordCount":"4","total_times":"99","index_id":"2","allEncStr":"5b020e1355e9e80b0460cb061beaf2b98b7c554cc9a2fab7fb7faa514177d83735f1e5dc60d9d4921a8c94be83726c4aab55ac74e6cefe6dcd8b6e442f454c9b","isAdult":"N","isYongThan10":"N","isYongThan14":"Y","isOldThan60":"N","if_receive":"N","is_active":"N","is_buy_ticket":"N","last_time":"20130108","mobile_check_time":"","email_active_time":"","last_update_time":"","passenger_uuid":"de5d4893e8376c23860dd0e3cf66d20d2a30bb6f97e64032ef0c928accc44273","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""},{"passenger_name":"刘文缤","sex_code":"M","sex_name":"男","born_date":"2011-08-29 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4311***********157","passenger_type":"2","passenger_flag":"0","passenger_type_name":"儿童","mobile_no":"","phone_no":"","email":"","address":"","postalcode":"","first_letter":"LW-","recordCount":"4","total_times":"95","index_id":"3","allEncStr":"43778d151e02a803bf6c801cdf97e63f9d25c11c99b9bf46f7dc0a63f144ff2a73defb01c660eae8188a9f5ee25bf611ab55ac74e6cefe6dcd8b6e442f454c9b","isAdult":"N","isYongThan10":"Y","isYongThan14":"Y","isOldThan60":"N","if_receive":"N","is_active":"N","is_buy_ticket":"N","last_time":"20180911","mobile_check_time":"","email_active_time":"","last_update_time":"","passenger_uuid":"5cffc4910181a55c129e56a82c7695cea515050a910f261ea7118dd54204d755","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""}],"dj_passengers":[]},"messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 17:57:22,391][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs
+入参: {"_json_att": ""}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:57:22,735][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"notify_for_gat":"","isExist":true,"exMsg":"","two_isOpenClick":["93","95","97","99"],"other_isOpenClick":["91","93","98","99","95","97"],"normal_passengers":[{"passenger_name":"刘海平","sex_code":"M","sex_name":"男","born_date":"1975-08-15 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4329***********715","passenger_type":"1","passenger_flag":"0","passenger_type_name":"成人","mobile_no":"135****4286","phone_no":"","email":"lh***in@126.com","address":"","postalcode":"","first_letter":"","recordCount":"4","total_times":"99","index_id":"0","allEncStr":"6b2d54e965b5e0ec5c645bf988e4a91adf4c80bf649bf68fb3b5ceb1c194ad548af5d519ce89e5cdb1afe25220a6ce4beaf6a0bd9201bb462f1f9075380f28dcb6163a1397191a027788efb5fd80983cfee8eccc86d65d109891860817bd7d17","isAdult":"Y","isYongThan10":"N","isYongThan14":"N","isOldThan60":"N","if_receive":"Y","is_active":"Y","is_buy_ticket":"N","last_time":"20140902","mobile_check_time":"20201124191202","email_active_time":"","last_update_time":"20201124191202","passenger_uuid":"e04994f7bbb254cba2d9435b09b955191796057faa92dcea73d3794a6d6b6dbf","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""},{"passenger_name":"陈干花","sex_code":"F","sex_name":"女","born_date":"1980-08-13 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4329***********12X","passenger_type":"1","passenger_flag":"0","passenger_type_name":"成人","mobile_no":"177****0297","phone_no":"","email":"","address":"","postalcode":"","first_letter":"CGH","recordCount":"4","total_times":"97","index_id":"1","allEncStr":"44949abb4e145d1d427773a2879c6f94a25504220a48f6550e11626a150d9a48c64966a227641efebd6d177ba6f32da2cc8d00d823f8171b68cc8def520d7732d0796f5baba974f5da04069be9bbcc58","isAdult":"Y","isYongThan10":"N","isYongThan14":"N","isOldThan60":"N","if_receive":"Y","is_active":"N","is_buy_ticket":"N","last_time":"20130420","mobile_check_time":"20201007101550","email_active_time":"20200928114728","last_update_time":"20201007101550","passenger_uuid":"7b10ed317ca46a9ebc0dff1baf4e3ab7fe9e5feb699b49eb9d8d24ea273d6054","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""},{"passenger_name":"刘思宇","sex_code":"F","sex_name":"女","born_date":"2009-02-25 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4311***********027","passenger_type":"2","passenger_flag":"0","passenger_type_name":"儿童","mobile_no":"","phone_no":"","email":"","address":"","postalcode":"","first_letter":"LSY","recordCount":"4","total_times":"99","index_id":"2","allEncStr":"5b020e1355e9e80b0460cb061beaf2b98b7c554cc9a2fab7fb7faa514177d83735f1e5dc60d9d4921a8c94be83726c4aab55ac74e6cefe6dcd8b6e442f454c9b","isAdult":"N","isYongThan10":"N","isYongThan14":"Y","isOldThan60":"N","if_receive":"N","is_active":"N","is_buy_ticket":"N","last_time":"20130108","mobile_check_time":"","email_active_time":"","last_update_time":"","passenger_uuid":"de5d4893e8376c23860dd0e3cf66d20d2a30bb6f97e64032ef0c928accc44273","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""},{"passenger_name":"刘文缤","sex_code":"M","sex_name":"男","born_date":"2011-08-29 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4311***********157","passenger_type":"2","passenger_flag":"0","passenger_type_name":"儿童","mobile_no":"","phone_no":"","email":"","address":"","postalcode":"","first_letter":"LW-","recordCount":"4","total_times":"95","index_id":"3","allEncStr":"43778d151e02a803bf6c801cdf97e63f9d25c11c99b9bf46f7dc0a63f144ff2a73defb01c660eae8188a9f5ee25bf611ab55ac74e6cefe6dcd8b6e442f454c9b","isAdult":"N","isYongThan10":"Y","isYongThan14":"Y","isOldThan60":"N","if_receive":"N","is_active":"N","is_buy_ticket":"N","last_time":"20180911","mobile_check_time":"","email_active_time":"","last_update_time":"","passenger_uuid":"5cffc4910181a55c129e56a82c7695cea515050a910f261ea7118dd54204d755","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""}],"dj_passengers":[]},"messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 17:57:22,751][    INFO] --- url: /otn/leftTicket/submitOrderRequest
+入参: [('secretStr', 'j9TmCkVER4E5GVo3Nu9SX5W4OvZkz1KYyEFY0S23UoDpTdq1/mjoVa5K3CZ57swHxAYWFs0Eyq6k\nzB+wjzJt822CmQOit1BpWEXcaXrL6zai+vNFEkIy37CCScYnotKnSI0oJAmBtH2LN3/3nhbBFmIt\nVH10m7ZJSDRe08aSFG0EOPZdm8IoW5m4A/BbGt4HEKGUld1oL0GOIz71wKNHupp2Q020KMrxhIEk\nIJsffN7cdpD5NVcy1c/rSAsgHfW1BZ9HsaORoYuRu6YkELuiCPQcsj8UY8BJ0BbgkZKWfEFoqk2w\n/afTGw=='), ('train_date', '2021-01-20'), ('back_train_date', '2020-12-27'), ('tour_flag', 'dc'), ('purpose_codes', 'ADULT'), ('query_from_station_name', '深圳北'), ('query_to_station_name', '贺州'), ('undefined', '')]
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:57:23,135][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":"0","messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 17:57:24,402][    INFO] --- url: /otn/confirmPassenger/checkOrderInfo
+入参: OrderedDict([('bed_level_order_num', '000000000000000000000000000000'), ('passengerTicketStr', 'O,0,1,刘海平,1,4329***********715,135****4286,N,6b2d54e965b5e0ec5c645bf988e4a91adf4c80bf649bf68fb3b5ceb1c194ad548af5d519ce89e5cdb1afe25220a6ce4beaf6a0bd9201bb462f1f9075380f28dcb6163a1397191a027788efb5fd80983cfee8eccc86d65d109891860817bd7d17'), ('oldPassengerStr', '刘海平,1,4329***********715,1_'), ('tour_flag', 'dc'), ('randCode', ''), ('cancel_flag', 2), ('_json_att', ''), ('REPEAT_SUBMIT_TOKEN', '6b21d0d38e9925783cc1a09a643d9b1f')])
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:57:24,723][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:57:24,793][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"canChooseBeds":"N","canChooseSeats":"Y","choose_Seats":"OM","isCanChooseMid":"N","ifShowPassCodeTime":"1318","submitStatus":true,"smokeStr":""},"messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 17:57:24,818][    INFO] --- url: /otn/confirmPassenger/getQueueCount
+入参: OrderedDict([('train_date', ('Wed Jan 20 2021 00:00:00 GMT+0800 (中国标准时间)',)), ('train_no', ('6i000G290608',)), ('stationTrainCode', ('G2906',)), ('seatType', ('O',)), ('fromStationTelecode', ('IOQ',)), ('toStationTelecode', ('HXZ',)), ('leftTicket', ('4061K6BfIKKHGqNyNEfFZsJCxEakQkWE00gIYUHdZn0KIPRh',)), ('purpose_codes', ('00',)), ('train_location', ('Q7',)), ('REPEAT_SUBMIT_TOKEN', ('6b21d0d38e9925783cc1a09a643d9b1f',))])
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:57:25,167][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"count":"0","ticket":"121","op_2":"false","countT":"0","op_1":"false"},"messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 17:57:25,914][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"flag":true},"messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 17:57:26,492][    INFO] --- url: /otn/confirmPassenger/confirmSingleForQueue
+入参: {'passengerTicketStr': 'O,0,1,刘海平,1,4329***********715,135****4286,N,6b2d54e965b5e0ec5c645bf988e4a91adf4c80bf649bf68fb3b5ceb1c194ad548af5d519ce89e5cdb1afe25220a6ce4beaf6a0bd9201bb462f1f9075380f28dcb6163a1397191a027788efb5fd80983cfee8eccc86d65d109891860817bd7d17', 'oldPassengerStr': '刘海平,1,4329***********715,1_', 'purpose_codes': '00', 'key_check_isChange': '9498663FB2DF895DA1213286B4BB024CDD1BD47E925BF988B6DBCF02', 'leftTicketStr': '4061K6BfIKKHGqNyNEfFZsJCxEakQkWE00gIYUHdZn0KIPRh', 'train_location': 'Q7', 'seatDetailType': '', 'roomType': '00', 'dwAll': 'N', 'whatsSelect': 1, '_json_at': '', 'randCode': '', 'choose_seats': '', 'REPEAT_SUBMIT_TOKEN': '6b21d0d38e9925783cc1a09a643d9b1f'}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 17:57:26,929][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"isAsync":"1","submitStatus":true},"messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 17:57:26,929][    INFO] --- url: /otn/confirmPassenger/queryOrderWaitTime?random=1609063046930&tourFlag=dc&_json_att=
+入参: None
+请求方式: get
+ (logger.py:61)
+[2020-12-27 17:57:27,396][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"queryOrderWaitTimeStatus":true,"count":0,"waitTime":1,"requestId":6748899573290560949,"waitCount":0,"tourFlag":"dc","orderId":null},"messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 17:57:29,410][    INFO] --- url: /otn/confirmPassenger/queryOrderWaitTime?random=1609063049410&tourFlag=dc&_json_att=
+入参: None
+请求方式: get
+ (logger.py:61)
+[2020-12-27 17:57:29,816][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"queryOrderWaitTimeStatus":true,"count":0,"waitTime":-1,"requestId":6748899573290560949,"waitCount":0,"tourFlag":"dc","orderId":"ED61595083"},"messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 17:57:29,816][    INFO] --- url: /SCU59611Te673da8babc7e9e6ef4bb6a0c054ce9a5d74cb3e42386.send
+入参: None
+请求方式: get
+ (logger.py:61)
+[2020-12-27 17:57:30,316][    INFO] --- 出参：{"errno":0,"errmsg":"success","dataset":"done"} (logger.py:61)
+[2020-12-27 20:20:51,879][    INFO] --- url: /otn/uamauthclient
+入参: {'tk': 'ZMhCH7q43klY9uAm5eJIxPw3A0nRzysNef70bgozl1l0'}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 20:20:52,137][    INFO] --- 出参：{"result_code":2,"result_message":"uamtk票据内容为空"} (logger.py:61)
+[2020-12-27 20:22:20,892][    INFO] --- url: /otn/uamauthclient
+入参: {'tk': '66_pQFILZegzIOmf5StpmH1-vkx82X2bnI3j1gijl1l0'}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 20:22:21,168][    INFO] --- 出参：{"result_code":0,"result_message":"验证通过","username":"刘海平","apptk":"66_pQFILZegzIOmf5StpmH1-vkx82X2bnI3j1gijl1l0"} (logger.py:61)
+[2020-12-27 20:22:21,184][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs
+入参: {"_json_att": ""}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 20:22:21,531][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"notify_for_gat":"","isExist":true,"exMsg":"","two_isOpenClick":["93","95","97","99"],"other_isOpenClick":["91","93","98","99","95","97"],"normal_passengers":[{"passenger_name":"刘海平","sex_code":"M","sex_name":"男","born_date":"1975-08-15 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4329***********715","passenger_type":"1","passenger_flag":"0","passenger_type_name":"成人","mobile_no":"135****4286","phone_no":"","email":"lh***in@126.com","address":"","postalcode":"","first_letter":"","recordCount":"4","total_times":"99","index_id":"0","allEncStr":"6b2d54e965b5e0ec5c645bf988e4a91adf4c80bf649bf68fb3b5ceb1c194ad548af5d519ce89e5cdb1afe25220a6ce4beaf6a0bd9201bb462f1f9075380f28dcb6163a1397191a027788efb5fd80983cfee8eccc86d65d109891860817bd7d17","isAdult":"Y","isYongThan10":"N","isYongThan14":"N","isOldThan60":"N","if_receive":"Y","is_active":"Y","is_buy_ticket":"N","last_time":"20140902","mobile_check_time":"20201124191202","email_active_time":"","last_update_time":"20201124191202","passenger_uuid":"e04994f7bbb254cba2d9435b09b955191796057faa92dcea73d3794a6d6b6dbf","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""},{"passenger_name":"陈干花","sex_code":"F","sex_name":"女","born_date":"1980-08-13 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4329***********12X","passenger_type":"1","passenger_flag":"0","passenger_type_name":"成人","mobile_no":"177****0297","phone_no":"","email":"","address":"","postalcode":"","first_letter":"CGH","recordCount":"4","total_times":"97","index_id":"1","allEncStr":"44949abb4e145d1d427773a2879c6f94a25504220a48f6550e11626a150d9a48c64966a227641efebd6d177ba6f32da2cc8d00d823f8171b68cc8def520d7732d0796f5baba974f5da04069be9bbcc58","isAdult":"Y","isYongThan10":"N","isYongThan14":"N","isOldThan60":"N","if_receive":"Y","is_active":"N","is_buy_ticket":"N","last_time":"20130420","mobile_check_time":"20201007101550","email_active_time":"20200928114728","last_update_time":"20201007101550","passenger_uuid":"7b10ed317ca46a9ebc0dff1baf4e3ab7fe9e5feb699b49eb9d8d24ea273d6054","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""},{"passenger_name":"刘思宇","sex_code":"F","sex_name":"女","born_date":"2009-02-25 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4311***********027","passenger_type":"2","passenger_flag":"0","passenger_type_name":"儿童","mobile_no":"","phone_no":"","email":"","address":"","postalcode":"","first_letter":"LSY","recordCount":"4","total_times":"99","index_id":"2","allEncStr":"5b020e1355e9e80b0460cb061beaf2b98b7c554cc9a2fab7fb7faa514177d83735f1e5dc60d9d4921a8c94be83726c4aab55ac74e6cefe6dcd8b6e442f454c9b","isAdult":"N","isYongThan10":"N","isYongThan14":"Y","isOldThan60":"N","if_receive":"N","is_active":"N","is_buy_ticket":"N","last_time":"20130108","mobile_check_time":"","email_active_time":"","last_update_time":"","passenger_uuid":"de5d4893e8376c23860dd0e3cf66d20d2a30bb6f97e64032ef0c928accc44273","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""},{"passenger_name":"刘文缤","sex_code":"M","sex_name":"男","born_date":"2011-08-29 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4311***********157","passenger_type":"2","passenger_flag":"0","passenger_type_name":"儿童","mobile_no":"","phone_no":"","email":"","address":"","postalcode":"","first_letter":"LW-","recordCount":"4","total_times":"95","index_id":"3","allEncStr":"43778d151e02a803bf6c801cdf97e63f9d25c11c99b9bf46f7dc0a63f144ff2a73defb01c660eae8188a9f5ee25bf611ab55ac74e6cefe6dcd8b6e442f454c9b","isAdult":"N","isYongThan10":"Y","isYongThan14":"Y","isOldThan60":"N","if_receive":"N","is_active":"N","is_buy_ticket":"N","last_time":"20180911","mobile_check_time":"","email_active_time":"","last_update_time":"","passenger_uuid":"5cffc4910181a55c129e56a82c7695cea515050a910f261ea7118dd54204d755","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""}],"dj_passengers":[]},"messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 20:22:22,109][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs
+入参: {"_json_att": ""}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 20:22:22,547][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"notify_for_gat":"","isExist":true,"exMsg":"","two_isOpenClick":["93","95","97","99"],"other_isOpenClick":["91","93","98","99","95","97"],"normal_passengers":[{"passenger_name":"刘海平","sex_code":"M","sex_name":"男","born_date":"1975-08-15 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4329***********715","passenger_type":"1","passenger_flag":"0","passenger_type_name":"成人","mobile_no":"135****4286","phone_no":"","email":"lh***in@126.com","address":"","postalcode":"","first_letter":"","recordCount":"4","total_times":"99","index_id":"0","allEncStr":"6b2d54e965b5e0ec5c645bf988e4a91adf4c80bf649bf68fb3b5ceb1c194ad548af5d519ce89e5cdb1afe25220a6ce4beaf6a0bd9201bb462f1f9075380f28dcb6163a1397191a027788efb5fd80983cfee8eccc86d65d109891860817bd7d17","isAdult":"Y","isYongThan10":"N","isYongThan14":"N","isOldThan60":"N","if_receive":"Y","is_active":"Y","is_buy_ticket":"N","last_time":"20140902","mobile_check_time":"20201124191202","email_active_time":"","last_update_time":"20201124191202","passenger_uuid":"e04994f7bbb254cba2d9435b09b955191796057faa92dcea73d3794a6d6b6dbf","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""},{"passenger_name":"陈干花","sex_code":"F","sex_name":"女","born_date":"1980-08-13 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4329***********12X","passenger_type":"1","passenger_flag":"0","passenger_type_name":"成人","mobile_no":"177****0297","phone_no":"","email":"","address":"","postalcode":"","first_letter":"CGH","recordCount":"4","total_times":"97","index_id":"1","allEncStr":"44949abb4e145d1d427773a2879c6f94a25504220a48f6550e11626a150d9a48c64966a227641efebd6d177ba6f32da2cc8d00d823f8171b68cc8def520d7732d0796f5baba974f5da04069be9bbcc58","isAdult":"Y","isYongThan10":"N","isYongThan14":"N","isOldThan60":"N","if_receive":"Y","is_active":"N","is_buy_ticket":"N","last_time":"20130420","mobile_check_time":"20201007101550","email_active_time":"20200928114728","last_update_time":"20201007101550","passenger_uuid":"7b10ed317ca46a9ebc0dff1baf4e3ab7fe9e5feb699b49eb9d8d24ea273d6054","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""},{"passenger_name":"刘思宇","sex_code":"F","sex_name":"女","born_date":"2009-02-25 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4311***********027","passenger_type":"2","passenger_flag":"0","passenger_type_name":"儿童","mobile_no":"","phone_no":"","email":"","address":"","postalcode":"","first_letter":"LSY","recordCount":"4","total_times":"99","index_id":"2","allEncStr":"5b020e1355e9e80b0460cb061beaf2b98b7c554cc9a2fab7fb7faa514177d83735f1e5dc60d9d4921a8c94be83726c4aab55ac74e6cefe6dcd8b6e442f454c9b","isAdult":"N","isYongThan10":"N","isYongThan14":"Y","isOldThan60":"N","if_receive":"N","is_active":"N","is_buy_ticket":"N","last_time":"20130108","mobile_check_time":"","email_active_time":"","last_update_time":"","passenger_uuid":"de5d4893e8376c23860dd0e3cf66d20d2a30bb6f97e64032ef0c928accc44273","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""},{"passenger_name":"刘文缤","sex_code":"M","sex_name":"男","born_date":"2011-08-29 00:00:00","country_code":"CN","passenger_id_type_code":"1","passenger_id_type_name":"中国居民身份证","passenger_id_no":"4311***********157","passenger_type":"2","passenger_flag":"0","passenger_type_name":"儿童","mobile_no":"","phone_no":"","email":"","address":"","postalcode":"","first_letter":"LW-","recordCount":"4","total_times":"95","index_id":"3","allEncStr":"43778d151e02a803bf6c801cdf97e63f9d25c11c99b9bf46f7dc0a63f144ff2a73defb01c660eae8188a9f5ee25bf611ab55ac74e6cefe6dcd8b6e442f454c9b","isAdult":"N","isYongThan10":"Y","isYongThan14":"Y","isOldThan60":"N","if_receive":"N","is_active":"N","is_buy_ticket":"N","last_time":"20180911","mobile_check_time":"","email_active_time":"","last_update_time":"","passenger_uuid":"5cffc4910181a55c129e56a82c7695cea515050a910f261ea7118dd54204d755","gat_born_date":"","gat_valid_date_start":"","gat_valid_date_end":"","gat_version":""}],"dj_passengers":[]},"messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 20:22:22,547][    INFO] --- url: /otn/leftTicket/submitOrderRequest
+入参: [('secretStr', 'K4pLUXww596WzauRArY0kvEAbM1ulGYEOISc1u0SlhtL9MAv9NEQiDfi4y55HPXDSHG0JBjgUvCf\nr8NxnixmNb76ZE6hOPLNplqdnKH5vOsRSkeYew0q1tDE2wo0ypu04mf8rwr+JdIH8n2+3QvIwi9Q\nWFxHCwC5Ij+BkTzKm3t4Qg7xeoB8pQTScVa/0Qfz0dtYyN3nSSFoyUPwUXnE8hYZ6QQT9dKnND/a\n/FcE9U5Yw68GjahiEEWSPHmmMSwVk5p40+jn2JVxos80We022g7xLzjf/oFFmk0W/O5JAnsq5L9J\nqO0cnA=='), ('train_date', '2021-01-20'), ('back_train_date', '2020-12-27'), ('tour_flag', 'dc'), ('purpose_codes', 'ADULT'), ('query_from_station_name', '深圳北'), ('query_to_station_name', '贺州'), ('undefined', '')]
+请求方式: post
+ (logger.py:61)
+[2020-12-27 20:22:22,937][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":"0","messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 20:22:24,186][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 20:22:24,342][    INFO] --- url: /otn/confirmPassenger/checkOrderInfo
+入参: OrderedDict([('bed_level_order_num', '000000000000000000000000000000'), ('passengerTicketStr', 'O,0,1,刘海平,1,4329***********715,135****4286,N,6b2d54e965b5e0ec5c645bf988e4a91adf4c80bf649bf68fb3b5ceb1c194ad548af5d519ce89e5cdb1afe25220a6ce4beaf6a0bd9201bb462f1f9075380f28dcb6163a1397191a027788efb5fd80983cfee8eccc86d65d109891860817bd7d17'), ('oldPassengerStr', '刘海平,1,4329***********715,1_'), ('tour_flag', 'dc'), ('randCode', ''), ('cancel_flag', 2), ('_json_att', ''), ('REPEAT_SUBMIT_TOKEN', '724ad70857369f3c0b0bfa45db7cc3da')])
+请求方式: post
+ (logger.py:61)
+[2020-12-27 20:22:24,622][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"canChooseBeds":"N","canChooseSeats":"Y","choose_Seats":"OM","isCanChooseMid":"N","ifShowPassCodeTime":"584","submitStatus":true,"smokeStr":""},"messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 20:22:24,653][    INFO] --- url: /otn/confirmPassenger/getQueueCount
+入参: OrderedDict([('train_date', ('Wed Jan 20 2021 00:00:00 GMT+0800 (中国标准时间)',)), ('train_no', ('6i000G290608',)), ('stationTrainCode', ('G2906',)), ('seatType', ('O',)), ('fromStationTelecode', ('IOQ',)), ('toStationTelecode', ('HXZ',)), ('leftTicket', ('4061K6BfIKKHGqNyNEfFZsJCxEakQkWE00gIYUHdZn0KIPRh',)), ('purpose_codes', ('00',)), ('train_location', ('Q7',)), ('REPEAT_SUBMIT_TOKEN', ('724ad70857369f3c0b0bfa45db7cc3da',))])
+请求方式: post
+ (logger.py:61)
+[2020-12-27 20:22:25,075][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"count":"1","ticket":"121","op_2":"false","countT":"0","op_1":"false"},"messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 20:22:25,388][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"flag":true},"messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 20:22:25,669][    INFO] --- url: /otn/confirmPassenger/confirmSingleForQueue
+入参: {'passengerTicketStr': 'O,0,1,刘海平,1,4329***********715,135****4286,N,6b2d54e965b5e0ec5c645bf988e4a91adf4c80bf649bf68fb3b5ceb1c194ad548af5d519ce89e5cdb1afe25220a6ce4beaf6a0bd9201bb462f1f9075380f28dcb6163a1397191a027788efb5fd80983cfee8eccc86d65d109891860817bd7d17', 'oldPassengerStr': '刘海平,1,4329***********715,1_', 'purpose_codes': '00', 'key_check_isChange': '39806C1CF7ED26539C06C43560D7D4A67C7D71BE48BDD7C7A9B156B8', 'leftTicketStr': '4061K6BfIKKHGqNyNEfFZsJCxEakQkWE00gIYUHdZn0KIPRh', 'train_location': 'Q7', 'seatDetailType': '', 'roomType': '00', 'dwAll': 'N', 'whatsSelect': 1, '_json_at': '', 'randCode': '', 'choose_seats': '', 'REPEAT_SUBMIT_TOKEN': '724ad70857369f3c0b0bfa45db7cc3da'}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 20:22:26,091][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"isAsync":"1","submitStatus":true},"messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 20:22:26,091][    INFO] --- url: /otn/confirmPassenger/queryOrderWaitTime?random=1609071746092&tourFlag=dc&_json_att=
+入参: None
+请求方式: get
+ (logger.py:61)
+[2020-12-27 20:22:26,465][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"queryOrderWaitTimeStatus":true,"count":0,"waitTime":1,"requestId":6748936060107287989,"waitCount":1,"tourFlag":"dc","orderId":null},"messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 20:22:28,476][    INFO] --- url: /otn/confirmPassenger/queryOrderWaitTime?random=1609071748477&tourFlag=dc&_json_att=
+入参: None
+请求方式: get
+ (logger.py:61)
+[2020-12-27 20:22:28,848][    INFO] --- 出参：{"validateMessagesShowId":"_validatorMessage","status":true,"httpstatus":200,"data":{"queryOrderWaitTimeStatus":true,"count":0,"waitTime":-1,"requestId":6748936060107287989,"waitCount":0,"tourFlag":"dc","orderId":"ED89431758"},"messages":[],"validateMessages":{}} (logger.py:61)
+[2020-12-27 20:22:28,848][    INFO] --- url: /SCU59611Te673da8babc7e9e6ef4bb6a0c054ce9a5d74cb3e42386.send
+入参: None
+请求方式: get
+ (logger.py:61)
+[2020-12-27 20:22:29,368][    INFO] --- 出参：{"errno":0,"errmsg":"success","dataset":"done"} (logger.py:61)
+[2020-12-27 20:46:05,525][    INFO] --- url: /otn/uamauthclient
+入参: {'tk': '66_pQFILZegzIOmf5StpmH1-vkx82X2bnI3j1gijl1l0'}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 20:46:05,775][    INFO] --- 出参：{"result_code":4,"result_message":"用户已在他处登录"} (logger.py:61)
+[2020-12-27 20:46:05,790][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs
+入参: {"_json_att": ""}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 20:46:06,025][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:07,434][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:07,637][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:08,428][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:08,803][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 20:46:09,273][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:09,761][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:09,922][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:10,527][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:10,972][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:11,464][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:12,400][    INFO] --- url: /otn/confirmPassenger/getPassengerDTOs 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:12,845][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2021-01-20&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:12,939][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 20:46:13,474][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2021-01-20&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:14,015][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2021-01-20&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:14,049][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:14,610][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2021-01-20&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:16,309][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2021-01-20&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:17,052][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 20:46:17,052][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2021-01-20&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:17,984][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2021-01-20&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:18,200][    INFO] --- url: /otn/login/checkUser 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:18,839][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2021-01-20&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:20,002][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2021-01-20&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:20,629][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2021-01-20&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 20:46:21,207][    INFO] --- url: /otn/login/checkUser
+入参: {'_json_att': ''}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 20:46:21,379][    INFO] --- url: /otn/leftTicket/query?leftTicketDTO.train_date=2021-01-20&leftTicketDTO.from_station=IOQ&leftTicketDTO.to_station=HXZ&purpose_codes=ADULT 返回参数为空 (logger.py:61)
+[2020-12-27 20:56:50,035][    INFO] --- url: /otn/uamauthclient
+入参: {'tk': '66_pQFILZegzIOmf5StpmH1-vkx82X2bnI3j1gijl1l0'}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 20:56:50,243][    INFO] --- 出参：{"result_code":2,"result_message":"uamtk票据内容为空"} (logger.py:61)
+[2020-12-27 21:44:04,166][    INFO] --- url: /otn/uamauthclient
+入参: {'tk': '66_pQFILZegzIOmf5StpmH1-vkx82X2bnI3j1gijl1l0'}
+请求方式: post
+ (logger.py:61)
+[2020-12-27 21:44:04,459][    INFO] --- 出参：{"result_code":2,"result_message":"uamtk票据内容为空"} (logger.py:61)

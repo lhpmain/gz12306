@@ -12,6 +12,6 @@
 
    - 
 
-启动命令：先执行： python3 run.py c
+启动命令：先执行： python run.py c
 
-​					再执行:   python3 run.py r
+​					再执行:   python run.py r

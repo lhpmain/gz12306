@@ -9,22 +9,22 @@ TICKET_TYPE = 2
 
 # 出发日期(list) "2018-01-06", "2018-01-07"
 STATION_DATES = [
-    "2020-12-25"
+    "2021-01-20"
 ]
 # 预售放票时间, 如果是捡漏模式，可以忽略此操作
-OPEN_TIME = "12:43:00"
+OPEN_TIME = "09:30:00"
 
 
 # 填入需要购买的车次(list)，"G1353"
 # 修改车次填入规则，注：(以前设置的车次逻辑不变)，如果车次填入为空，那么就是当日乘车所有车次都纳入筛选返回
 # 不填车次是整个list为空才算，如果不是为空，依然会判断车次的，这种是错误的写法 [""], 正确的写法 []
-STATION_TRAINS = []
+STATION_TRAINS = ["G2906"]
 
 # 出发城市，比如深圳北，就填深圳就搜得到
-FROM_STATION = "杭州"
+FROM_STATION = "深圳北"
 
 # 到达城市 比如深圳北，就填深圳就搜得到
-TO_STATION = "商丘"
+TO_STATION = "贺州"
 
 # 座位(list) 多个座位ex:
 # "商务座",
@@ -45,14 +45,12 @@ IS_MORE_TICKET = True
 # 乘车人(list) 多个乘车人ex:
 # "张三",
 # "李四"
-TICKET_PEOPLES = [""]
+TICKET_PEOPLES = ["刘海平"]
 
 # 12306登录账号
 USER = "不需要配置"
 PWD = "不需要配置"
-tk = ""
-RAIL_EXPIRATION = "1608974698285"
-RAIL_DEVICEID = "gtJfNuBFUBPOakMf1Ujs_h7pUWCjoJik-SsmL78AOHgmfFki0edSZmxdwyuEi4Hpj94MAAu-JKtQNIZA8fSh_kwlHBRt7mAcG9lO5NXcJIfo05u8gr3_mwCbhwUFBXOeTl6GuJpTke-5_s-LU1mtZWMbIGXJbAtN"
+tk = "wXB4ntogt4HOgGPqcTCc8Q0Ajm9R1N2oib1LlQ27l1l0"
 
 
 # 加入小黑屋时间默认为5分钟，此功能为了防止僵尸票导致一直下单不成功错过正常的票
@@ -66,7 +64,7 @@ IS_AUTO_CODE = True
 AUTO_CODE_TYPE = 3
 
 # 此处设置云打码服务器地址，如果有自建的服务器，可以自行更改
-HOST = "120.79.35.41:8080"
+HOST = "142.47.91.170:8088"
 REQ_URL = "/verify/base64/"
 HTTP_TYPE = "http"
 
@@ -84,7 +82,7 @@ HTTP_TYPE = "http"
 #  password: "授权码"
 #  host: "smtp.qq.com"
 EMAIL_CONF = {
-    "IS_MAIL": True,
+    "IS_MAIL": False,
     "email": "",
     "notice_email_list": "",
     "username": "",
@@ -94,8 +92,8 @@ EMAIL_CONF = {
 
 # 是否开启 server酱 微信提醒， 使用前需要前往 http://sc.ftqq.com/3.version 扫码绑定获取 SECRET 并关注获得抢票结果通知的公众号
 SERVER_CHAN_CONF = {
-    "is_server_chan": False,
-    "secret": ""
+    "is_server_chan": True,
+    "secret": "SCU59611Te673da8babc7e9e6ef4bb6a0c054ce9a5d74cb3e42386"
 }
 
 # 是否开启cdn查询，可以更快的检测票票 1为开启，2为关闭
@@ -128,10 +126,13 @@ CHROME_PATH = "/usr/src/app/chromedriver"
 # 为了docker37 准备的环境变量，windows环境可以不用管这个参数
 CHROME_CHROME_PATH = "/opt/google/chrome/google-chrome"
 
+# 如果COOKIE_TYPE=3, 则需配置RAIL_EXPIRATION、RAIL_DEVICEID的值
+RAIL_EXPIRATION = "1609338904802"
+RAIL_DEVICEID = "GewOAH05HXtrninoVSCNjBna_TYF11R2WIUEgrEWiDh_j7k35Wfp_JIbpzLyci0CC9vGEY2AaNbucyG1kBC6e_jqBa9T9lcEwlpBH5Hnzr2FRqfleQL037ZG_BLTwOiAcmR9lo1kRrjxFN84tBzeMwLZPSRUN5qj"
 
 
 # 1=>为一直随机ua,2->只启动的时候随机一次ua
-RANDOM_AGENT = 2
+RANDOM_AGENT = 1
 
 PASSENGER_TICKER_STR = {
     '一等座': 'M',
@@ -147,7 +148,7 @@ PASSENGER_TICKER_STR = {
 
 # 保护12306官网请求频率，设置随机请求时间，原则为5分钟不大于80次
 # 最大间隔请求时间
-MAX_TIME = 1
+MAX_TIME = 3
 # 最小间隔请求时间
 MIN_TIME = 0
 

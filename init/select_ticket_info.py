@@ -243,4 +243,4 @@ class select:
 
 if __name__ == '__main__':
     s = select()
-    cdn = s.station_table("长沙", "深圳")
+    cdn = s.station_table("深圳北", "广州南")
