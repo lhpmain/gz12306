@@ -16,4 +16,4 @@
 
 先执行： python run.py c
 
-再执行:   python run.py r
+再执行:  python run.py r
